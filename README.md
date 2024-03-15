@@ -27,19 +27,11 @@ GitHub!
     width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
     width="40" height="40" /> </a> </p>
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;"
-    src="https://lh3.googleusercontent.com/WE9zODo1PJWAwrM_UGPtT4tVESqdc0aB2785lKlBl92T5fospv5jWXWCRppaV-KzG1WylqXaU1MTx36uaBcqhnRdLvKC6ldDeFHNI5IvWPhmJi-zbtB4PG7x7dc127HWfKc1uLr5BoHvsxc16_JH2g17dXcY4jQz3W29yReZVgSH9GLt49n5-raxIUu1sNvY5M6stGUDrvprlEsKmFUT6v5DIb1C5YCF-bRRQejI0X0u117R_W8QwzVEnEMR6f592TsPQyk2EvPpiAPOaoERcAcwg1_8rtfrcQcJemFyIh1KhhlLwMbIAOK7N5yRL6A6WcejZgNuV1S7OCRMEM1VgxFI0-yeiAeBd1Idw9eWePDWcOcrQKDqWjRWEtUBWjxp1ALG7zz57gROc67D5N6lJXcy0SPgvQv9_QN81Zd5Yult2QNGWJQN2iJn5ID1ryj2JefbPlYPeqYLK5_GmSjhxj6k_EBE3LiBSgiIlvQzxH_jZndOIfFLG1_bWwjYvYiDzga1La9oDUj-CLddBBSZKcLNItjGZrntDC82dpbXSq9PSqu8VOK4O_ECltOgQGFMJhYmesByvJfS-YGd9SCxaCBcmWHuq3IBohkBKFlDzCCK968DoHYCwVVma7H2t8uuX_kpmyg9eeL_9xRq4keKsjisZRAQUCiWjuo11pCR-3Sn36dLZodwrEXoJSNGAWq9rfAb_NwdDb40wxkse2j3Dsxg=s512-no?authuser=0">
 </div>
 
 ##
 
 <div>
-  <a href="https://bit.ly/3di6c2j " target="_blank"><img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      target="_blank"></a>
-  <a href="https://instagram.com/m_meirelless" target="_blank"><img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank"></a>
   <a href="mailto:matheus.meirellessilva@hotmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
