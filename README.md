@@ -4,7 +4,7 @@ Hi there! I'm Matheus — a technology enthusiast and aspiring content creator. 
 Get in Touch
 I'm always open to connecting! Feel free to reach out via email or connect with me on LinkedIn:
 
-<div> <a href="mailto:matheusmeirelles@mb2analytics.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/matheusmei/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div> <br />
+<div> <a href="mailto:matheusmeirelles@mb2analytics.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/matheusmeirelless/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div> <br />
 
   ![Snake animation](https://github.com/MMeirelless/MMeirelless/blob/main/snake.svg)
 
